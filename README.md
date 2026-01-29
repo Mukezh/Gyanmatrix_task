@@ -161,13 +161,6 @@ npm run build
 
 The production-ready files will be generated in the `frontend/dist` directory.
 
-## Testing
-
-```bash
-cd frontend
-npm test
-```
-
 ## Technologies Used
 
 ### Backend
@@ -196,34 +189,3 @@ Create a `.env` file in the frontend directory (optional):
 ```env
 VITE_API_URL=http://localhost:3000
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Authors
-
-- Your Name - Initial work
-
-## Acknowledgments
-
-- Thanks to all contributors who have helped with this project
-- Inspired by modern task management applications
-
-## Support
-
-If you have any questions or run into issues, please open an issue on the GitHub repository.
-
----
-
-**Happy Task Tracking!**
