@@ -161,7 +161,10 @@ npm run build
 
 The production-ready files will be generated in the `frontend/dist` directory.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2995ad91ec04d73e47e5b6afd8c45d54fa830389
 ## Technologies Used
 
 ### Backend
@@ -173,8 +176,6 @@ The production-ready files will be generated in the `frontend/dist` directory.
 ### Frontend
 - **React** - UI library
 - **Vite** - Build tool and dev server
-- **Axios** - HTTP client (or fetch API)
-- **React Router** - Navigation (if applicable)
 
 ## Environment Variables
 
