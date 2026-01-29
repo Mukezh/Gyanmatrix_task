@@ -172,8 +172,6 @@ The production-ready files will be generated in the `frontend/dist` directory.
 ### Frontend
 - **React** - UI library
 - **Vite** - Build tool and dev server
-- **Axios** - HTTP client (or fetch API)
-- **React Router** - Navigation (if applicable)
 
 ## Environment Variables
 
